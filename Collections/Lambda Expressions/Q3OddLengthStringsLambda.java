@@ -1,4 +1,4 @@
-
+git commit -m "Moved Lambda Expressions into Collections folder"
 import java.util.ArrayList;
 
 public class Q3OddLengthStringsLambda {
